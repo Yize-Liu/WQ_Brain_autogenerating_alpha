@@ -1,0 +1,3 @@
+rank((close - open)/open)
+rank((high - low)/open)
+rank((close / open) + (high - low))
